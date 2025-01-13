@@ -1,0 +1,10 @@
+﻿using UnityEngine;
+
+namespace ET.Client
+{
+    [ComponentOf(typeof(UGFEntity))]
+    public class UGFEntity#NAME# : Entity, IAwake<Transform>, IDestroy
+    {
+        
+    }
+}

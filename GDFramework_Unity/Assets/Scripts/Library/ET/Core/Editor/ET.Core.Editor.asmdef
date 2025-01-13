@@ -1,0 +1,21 @@
+{
+    "name": "ET.Core.Editor",
+    "rootNamespace": "ET",
+    "references": [
+        "ET.Core",
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_ET"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
