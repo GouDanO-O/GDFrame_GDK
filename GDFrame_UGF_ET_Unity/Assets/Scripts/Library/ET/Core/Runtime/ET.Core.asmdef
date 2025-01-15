@@ -1,0 +1,22 @@
+{
+    "name": "ET.Core",
+    "rootNamespace": "ET",
+    "references": [
+        "Unity.Mathematics",
+        "UniTask",
+        "MemoryPack",
+        "ET.ThirdParty",
+        "UniTask.Extension"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_ET"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
